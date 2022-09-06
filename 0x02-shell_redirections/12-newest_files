@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltr | tail -l0
+ls -ltr | tail -10
